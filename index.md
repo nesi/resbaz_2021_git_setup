@@ -20,3 +20,4 @@ collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g.
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 {% include install_instructions/git.html %}
+{% include install_instructions/bash.html %}
